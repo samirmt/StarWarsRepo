@@ -5,3 +5,6 @@ Leia Organa
 Shubaka
 Han Solo
 Jabba the Hutt
+
+Rey
+Finn
